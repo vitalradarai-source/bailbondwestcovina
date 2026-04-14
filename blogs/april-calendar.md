@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-west-covina | what happens after an arrest in West Covina | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-west-covina | how do bail bonds work in West Covina | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-west-covina | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-west-covina | how much is bail in Los Angeles County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-west-covina | how to get someone out of jail in West Covina | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-west-covina | domestic violence bail bonds West Covina | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-west-covina | DUI bail bonds West Covina | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-west-covina | felony bail bonds West Covina | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-west-covina-bail-bonds | west covina bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-west-covina | drug possession bail West Covina | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-west-covina | can you bail someone out at night in West Covina | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-west-covina | how long does it take to bail someone out of West Covina PD Jail | Timeline | ⬜ |
