@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-west-covina | how much does a bail bondsman charge in West Covina | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-west-covina | bail bond payment plan West Covina | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-west-covina | jail booking process at West Covina PD Jail | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-west-covina | how to find someone in jail West Covina | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-west-covina | what to expect at arraignment West Covina Courthouse | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-west-covina | bail hearing process in Los Angeles County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-west-covina | warrant bail bonds West Covina | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-west-covina | what happens if you miss court date West Covina | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-west-covina | assault and battery bail bonds West Covina | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-west-covina | theft and burglary bail bonds West Covina | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-west-covina | how to choose a bail bondsman in West Covina | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-west-covina | what does a bail bond cosigner do West Covina | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-west-covina | bail conditions and restrictions Los Angeles County | Conditions | ⬜ |
+| 2026-04-21 | Tue | immigration-hold-bail-west-covina | ICE hold bail questions West Covina | Immigration | ⬜ |
+| 2026-04-22 | Wed | probation-violation-bail-west-covina | probation violation bail West Covina | Probation | ⬜ |
+| 2026-04-23 | Thu | bench-warrant-west-covina | bench warrant bail bonds West Covina | Bench Warrant | ⬜ |
+| 2026-04-24 | Fri | restraining-order-bail-west-covina | restraining order and bail West Covina | Restraining Order | ⬜ |
+| 2026-04-25 | Sat | bail-bond-cost-west-covina | how much does a bail bondsman charge in West Covina | Costs | ⬜ |
+| 2026-04-26 | Sun | bail-bond-payment-plan-west-covina | bail bond payment plan West Covina | Payment Plans | ⬜ |
+| 2026-04-27 | Mon | jail-booking-process-west-covina | jail booking process in West Covina | Jail Process | ⬜ |
+| 2026-04-28 | Tue | inmate-search-west-covina | how to find someone in jail West Covina | Inmate Search | ⬜ |
+| 2026-04-29 | Wed | what-to-expect-arraignment-west-covina | what to expect at arraignment in Los Angeles | Court Process | ⬜ |
+| 2026-04-30 | Thu | bail-hearing-west-covina | bail hearing process in Los Angeles | Bail Hearing | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
